@@ -1,0 +1,28 @@
+name: Vision Logic
+favicon: null
+layout_spectrum: 0.21060758689418435
+typography_spectrum: 0.32777241291478276
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5489057651720941
+  lightness: 0.8368399417959154
+  saturation: 0.3359738076105714
+  rhythmicContrast: 0.7335841853637248
+purpose: []
